@@ -1,0 +1,82 @@
+baseurl = "https://dylantaylor.net"
+title = "dylantaylor.net"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+
+[pagination]
+pagerSize = 20
+
+[services]
+[services.disqus]
+shortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Dylan Taylor"
+  info = "Student / Hacker / IT Enthusiast"
+  description = "My personal homepage"
+  keywords = "hacker,blog,student,personal"
+  avatarurl = "images/avatar.png"
+
+  faviconSVG = "/favicon.svg"
+
+
+  enableTwemoji = true
+
+  colorScheme = "dark"
+  hidecolorschemetoggle = false
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/dizzle0/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 2
+  url = "https://linkedin.com/in/dylan-taylor2006/"
+[[params.social]]
+  name = "Mastodon"
+  icon = "fa-brands fa-mastodon fa-2x"
+  weight = 3
+  url = "https://mastodon.social/@dizzle1"
+[[params.social]]
+  name = "Email"
+  icon = "fa-solid fa-envelope fa-2x"
+  weight = 4
+  url = "mailto:contact@dylantaylor.net"
+
+
+# Menu links
+[[menu.main]]
+  name = "Contact"
+  weight = 1
+  url  = "contact/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
+[[menu.main]]
+  name = "Projects"
+  weight = 2
+  url = "projects/"
+[[menu.main]]
+  name = "Terminal"
+  weight = 1
+  url  = "https://dizzled.dev"
+#[[menu.main]]
+#  name = "Blog"
+#  weight = 1
+#  url  = "https://dylantaylor.net/"
