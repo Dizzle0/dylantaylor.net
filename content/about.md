@@ -5,7 +5,7 @@ My name is Dylan.\
 I am a student studying Infomation Technology at Wellington Institute of Technology in New Zealand. 🎉
 
 ## What I do
-- I am currently studying Information Security, Discreet Mathematics, Interaction Design, and Programming.
+- I am currently studying Information Security, Discreet Mathematics, Web Design, and Linux System Administration for the first trimester.
 
 ## Skills 😎
 - Languages: JavaScript, CSS, Java, C, C# Bash, Python.
