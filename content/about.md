@@ -1,6 +1,6 @@
 # About
 
-Hi there! ☺️\
+Hi there!\
 My name is Dylan.\
 I am a student studying Infomation Technology at Wellington Institute of Technology in New Zealand. 🎉
 
