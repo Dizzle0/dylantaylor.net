@@ -29,4 +29,4 @@ I currently work in Event Security and I also teach coding to children at an aft
 
 ---
 
-Feel free to [contact](https://dizzled.dev/contact) me if you want my CV or just to reach out!
+Feel free to [contact](https://dylantaylor.net/contact) me if you want my CV or just to reach out!
