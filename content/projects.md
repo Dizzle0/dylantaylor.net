@@ -49,7 +49,7 @@ I also have 2 Oracle VPS nodes which host exit points for my VPN.\
 They are based in Switzerland and Australia.
 
 Tailscale mesh VPN connects all the services together and serves the exit nodes.\
-Relevant services are exposed to the internet via Cloudflare tunnels.\
+Relevant services are exposed to the internet via Cloudflare tunnels.
 
 Server Specs:
 - Intel i5 4690
