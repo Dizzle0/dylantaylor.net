@@ -7,7 +7,7 @@ Below you'll find a list of my recent projects along with descriptions and relev
 
 ### Dizzled.dev
 My personal "fun" website which acts as a hub for all my self hosted services.\
-Written in HTML and CSS.\
+Written in HTML and CSS.
 
 "Dizzle" is a nickname of mine which I decided to use as my online handle.
 
