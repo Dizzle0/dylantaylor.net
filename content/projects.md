@@ -49,7 +49,7 @@ I also have 2 Oracle VPS nodes which host exit points for my VPN.\
 They are based in Switzerland and Australia.
 
 Tailscale mesh VPN connects all the services together and serves the exit nodes.\
-Relevant services are exposed to the internet via Cloudfalre tunnels.\
+Relevant services are exposed to the internet via Cloudflare tunnels.\
 
 Server Specs:
 - Intel i5 4690
@@ -74,7 +74,7 @@ These are copyrighted, so I cannot publish them here.
 
 ### Java snake game
 This game was made as my year 13 project in my Computer Science High School class.\
-This was made to be easy to beat so the snake extends infinitly.   
+This was made to be easy to beat so the snake extends infinitely.   
 - **GitHub Link:** [CSC335-Project](https://github.com/Dizzle0/CSC335-Project)
 - **Date:** 2024
 

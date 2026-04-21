@@ -20,7 +20,7 @@ I am currently taking the following courses for Trimester 1:
 
 ## Technical Skills
 - Languages: JavaScript, CSS, Java, C, C#, Bash, Python
-- Software: VScode, NeoVim, Git/Github, Obsidian
+- Software: VScode, NeoVim, Git/GitHub, Obsidian
 - Operating Systems: Arch Linux, Kali Linux, Proxmox, Debian/Fedora-based systems
 
 
