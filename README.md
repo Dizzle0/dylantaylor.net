@@ -1,6 +1,6 @@
 # DylanTaylor.net
 
-My professional networking site with the following:
+My professional networking website with the following:
 - About
 - Contact
 - Projects
