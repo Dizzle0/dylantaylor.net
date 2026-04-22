@@ -46,7 +46,7 @@ style = "github-dark"
   name = "LinkedIn"
   icon = "fa-brands fa-linkedin fa-2x"
   weight = 2
-  url = "https://linkedin.com/in/dylantaylor2006/"
+  url = "https://linkedin.com/in/dylantaylor06/"
 [[params.social]]
   name = "Mastodon"
   icon = "fa-brands fa-mastodon fa-2x"
