@@ -1,4 +1,4 @@
-baseurl = "https://dylantaylor.net"
+baseurl = "www.dylantaylor.net"
 title = "dylantaylor.net"
 theme = "hugo-coder"
 languagecode = "en"
@@ -76,7 +76,3 @@ style = "github-dark"
   name = "Personal Site"
   weight = 4
   url  = "https://dizzled.dev"
-#[[menu.main]]
-#  name = "Blog"
-#  weight = 1
-#  url  = "https://dylantaylor.net/"
