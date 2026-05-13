@@ -72,7 +72,5 @@ style = "github-dark"
   name = "Projects"
   weight = 3
   url = "projects/"
-[[menu.main]]
-  name = "Personal Site"
-  weight = 4
-  url  = "https://dizzled.dev"
+
+  # End of file
