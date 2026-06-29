@@ -44,6 +44,7 @@ Runs the following:
 - Openclaw (Local AI assistent)
 - SearXNG (Private self hosted search engine)
 - Vaultwarden (Self hosted password manager)
+- Kiwix (Knowledge Base)
 
 I also have 2 Oracle VPS nodes which host exit points for my VPN.\
 They are based in Switzerland and Australia.
